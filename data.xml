@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LESSONS>
+  <LESSON>
+    <week_day>Monday</week_day>
+    <lesson_number>3</lesson_number>
+    <auditorium>104i</auditorium>
+    <disciple>Computer Networks</disciple>
+    <name>Kovalenko A.A.</name>
+    <type>Lecture</type>
+  </LESSON>
+  <LESSON>
+    <week_day>Monday</week_day>
+    <lesson_number>3</lesson_number>
+    <auditorium>104i</auditorium>
+    <disciple>Computer Networks</disciple>
+    <name>Kovalenko A.A.</name>
+    <type>Lecture</type>
+  </LESSON>
+  <LESSON>
+    <week_day>Monday</week_day>
+    <lesson_number>3</lesson_number>
+    <auditorium>104i</auditorium>
+    <disciple>Computer Networks</disciple>
+    <name>Kovalenko A.A.</name>
+    <type>Lecture</type>
+  </LESSON>
+  <LESSON>
+    <week_day>Monday</week_day>
+    <lesson_number>3</lesson_number>
+    <auditorium>104i</auditorium>
+    <disciple>Computer Networks</disciple>
+    <name>Kovalenko A.A.</name>
+    <type>Lecture</type>
+  </LESSON>
+  <LESSON>
+    <week_day>Monday</week_day>
+    <lesson_number>3</lesson_number>
+    <auditorium>104i</auditorium>
+    <disciple>Computer Networks</disciple>
+    <name>Kovalenko A.A.</name>
+    <type>Lecture</type>
+  </LESSON>
+  <LESSON>
+    <week_day>monday</week_day>
+    <lesson_number>2</lesson_number>
+    <auditorium>65e</auditorium>
+    <disciple>KSX</disciple>
+    <name>Kovalenko A.A.</name>
+    <type>Practical</type>
+  </LESSON>
+  <LESSON>
+    <week_day>tuesday</week_day>
+    <lesson_number>3</lesson_number>
+    <auditorium>654t</auditorium>
+    <disciple>Computer Techno</disciple>
+    <name>Kovalenko A.A.</name>
+    <type>Practical</type>
+  </LESSON>
+</LESSONS>
